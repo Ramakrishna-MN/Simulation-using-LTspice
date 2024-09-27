@@ -1,2 +1,2 @@
 # Simulation-using-LTspice
-Simulation of basic circuits finding voltage across resistors and currrents.
+Simulation of basic circuits and analysing it using LT spice software
